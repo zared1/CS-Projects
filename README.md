@@ -12,6 +12,7 @@ This repository showcases my collection of **Python projects** focused on **cybe
 | **Caesar-Chat** | Chat application that uses the Caesar cipher to secure messages. | [GitHub](https://github.com/zared1/Caesar-Chat) |
 | **ROT13** | Implementation of the ROT13 cipher for text encoding and decoding. | [GitHub](https://github.com/zared1/ROT13) |
 | **UDP-chat-server-ROT13** | UDP chat server that encrypts messages using ROT13 for simple message obfuscation. | [GitHub](https://github.com/zared1/UDP-chat-server-ROT13) |
+| **Remote-cmd-execution** | Python tool for executing commands remotely on target machines (educational / lab environment). | [GitHub](https://github.com/zared1/Remote-cmd-execution) |
 
 ---
 
