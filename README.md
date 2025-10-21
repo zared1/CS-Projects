@@ -13,6 +13,7 @@ This repository showcases my collection of **Python projects** focused on **cybe
 | **ROT13** | Implementation of the ROT13 cipher for text encoding and decoding. | [Repo](https://github.com/zared1/ROT13) |
 | **UDP-chat-server-ROT13** | UDP chat server that encrypts messages using ROT13 for simple message obfuscation. | [Repo](https://github.com/zared1/UDP-chat-server-ROT13) |
 | **Remote-cmd-execution** | Python tool for executing commands remotely on target machines (educational / lab environment). | [Repo](https://github.com/zared1/Remote-cmd-execution) |
+| Netcat_Replacement | Custom Python implementation of Netcat, capable of establishing TCP connections and transferring data interactively. | [Repo](https://github.com/zared1/Netcat_Replacement) |
 
 ---
 
