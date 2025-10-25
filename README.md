@@ -15,6 +15,7 @@ This repository showcases my collection of **Python projects** focused on **cybe
 | **Remote-cmd-execution** | Python tool for executing commands remotely on target machines. | [Repo](https://github.com/zared1/Remote-cmd-execution) |
 | **Netcat_Replacement** | Custom Python implementation of Netcat, capable of establishing TCP connections and transferring data interactively. | [Repo](https://github.com/zared1/Netcat_Replacement) |
 | **Port_Scanner** | Fast TCP/UDP port scanner with optional service detection and banner grabbing. | [Repo](https://github.com/zared1/Port_Scanner) |
+| Threaded-DirBrute | Small multithreaded directory brute‑forcer that reads paths from a wordlist and checks URL+path concurrently for quick reconnaissance or lab testing. | [Repo](https://github.com/zared1/Threaded-DirBrute) |
 ---
 
 > More projects will be added as I expand my Python cybersecurity toolkit.
