@@ -17,6 +17,8 @@ This repository showcases my collection of **Python projects** focused on **cybe
 | **Port_Scanner** | Fast TCP/UDP port scanner with optional service detection and banner grabbing. | [Repo](https://github.com/zared1/Port_Scanner) |
 | **Threaded-DirBrute** | Small multithreaded directory brute‑forcer that reads paths from a wordlist and checks URL+path concurrently for quick reconnaissance or lab testing. | [Repo](https://github.com/zared1/Threaded-DirBrute) |
 | **Recursion-Tuned-DirBrute** | Multithreaded directory brute‑forcer with recursive scanning and jitter controls to avoid detection; optimized for speed and stability in lab/recon environments (educational use only). | [Repo](https://github.com/zared1/Recursion-Tuned-DirBrute) |
+| **Web-Bruteforce** | Minimal Python HTTP Basic Auth brute-forcer, tries passwords from a wordlist (lab/authorized testing only). | [Repo](https://github.com/zared1/Web-Bruteforce) |
+
 ---
 
 > More projects will be added as I expand my Python cybersecurity toolkit.
