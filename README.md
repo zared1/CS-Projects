@@ -18,6 +18,8 @@ This repository showcases my collection of **Python projects** focused on **cybe
 | **Threaded-DirBrute** | Small multithreaded directory brute‑forcer that reads paths from a wordlist and checks URL+path concurrently for quick reconnaissance or lab testing. | [Repo](https://github.com/zared1/Threaded-DirBrute) |
 | **Recursion-Tuned-DirBrute** | Multithreaded directory brute‑forcer with recursive scanning and jitter controls to avoid detection; optimized for speed and stability in lab/recon environments (educational use only). | [Repo](https://github.com/zared1/Recursion-Tuned-DirBrute) |
 | **Web-Bruteforce** | Minimal Python HTTP Basic Auth brute-forcer, tries passwords from a wordlist (lab/authorized testing only). | [Repo](https://github.com/zared1/Web-Bruteforce) |
+| **FTP-Bruteforce** | Simple Python FTP brute-forcer that tries passwords from a wordlist (lab/authorized testing only). | [Repo](https://github.com/zared1/FTP-Bruteforce) |
+
 
 ---
 
