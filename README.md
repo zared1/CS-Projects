@@ -20,6 +20,7 @@ This repository showcases my collection of **Python projects** focused on **cybe
 | **Web-Bruteforce** | Minimal Python HTTP Basic Auth brute-forcer, tries passwords from a wordlist (lab/authorized testing only). | [Repo](https://github.com/zared1/Web-Bruteforce) |
 | **FTP-Bruteforce** | Simple Python FTP brute-forcer that tries passwords from a wordlist (lab/authorized testing only). | [Repo](https://github.com/zared1/FTP-Bruteforce) |
 | **SSH-Bruteforcer** | Python-based SSH brute-forcer using Paramiko to test passwords from a wordlist (for authorized lab environments only). | [Repo](https://github.com/zared1/SSH-Bruteforcer) |
+| **FTP-Footprint** | FTP fingerprinting script that grabs the server banner and identifies the OS/version based on known signatures (lab/authorized testing only). | [Repo](https://github.com/zared1/FTP-Footprint) |
 
 ---
 
